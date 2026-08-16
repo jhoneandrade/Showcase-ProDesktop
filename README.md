@@ -1,6 +1,6 @@
 # 🛒 ProDesktop - PDV Interactive & Marketing Screen
 
-O **ProDesktop** é uma solução avançada em Python projetada para maximizar o engajamento no Frente de Caixa (PDV) e atuar como um *idle screensaver* inteligente. Em momentos de inatividade, o sistema assume o controle do terminal, convertendo a tela estática em um **painel dinâmico de publicidade e autoatendimento**.
+O **ProDesktop** é uma solução avançada em Python projetada para maximizar o engajamento no Frente de Caixa (PDV) e atuar como um *idle screensaver* inteligente. Em momentos de inatividade, o sistema assume o controle do terminal, convertendo a tela estática em um **painel dinâmico de publicidade e consulta rápida de preços interligado ao sistema principal**.
 
 Desenvolvido com arquitetura cliente-servidor leve, ele emprega uma interface premium orientada a eventos (Tkinter customizado com overlays translúcidos via PIL) e monitora de forma autônoma o status da rede e do SGBD subjacente.
 
